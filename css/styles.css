@@ -87,7 +87,7 @@ footer{
     padding: 1rem;
   }
   .navbar a {
-    font-size: 0.95rem;
+    font-size: 0.98rem;
   }
  
 
@@ -96,7 +96,7 @@ footer{
     flex-direction: column;
     padding: 0;
     margin: 0 auto;
-    font-size: 0.9rem;
+    font-size: 0.98rem;
   }
   .contact img{
     width: 50%
@@ -134,13 +134,16 @@ footer{
   }
   .Indentation{
     margin: auto;
-    font-size: 0.9rem;
+    font-size: 0.98rem;
 }
   .crepeSucre p{
     font-size: 1rem;
   }
 main .mentions{
     padding: 1rem;
+}
+  .accueil img{
+    width: 50%;
 }
 
 }
