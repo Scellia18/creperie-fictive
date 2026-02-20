@@ -73,8 +73,8 @@ footer{
 
 
 
-/* Responsive Design à apprendre ou à modifier */
-@media screen and (max-width: 768px) {
+/* Responsive Design à apprendre ou à modifier 768px*/
+@media screen and (max-width: 1080px ) {
 
   
   nav{
@@ -87,7 +87,7 @@ footer{
     padding: 1rem;
   }
   .navbar a {
-    font-size: 0.9rem;
+    font-size: 0.95rem;
   }
  
 
@@ -96,7 +96,7 @@ footer{
     flex-direction: column;
     padding: 0;
     margin: 0 auto;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
   }
   .contact img{
     width: 50%
@@ -136,7 +136,7 @@ footer{
     font-size: 0.9rem;
 }
   .crepeSucre p{
-    font-size: 0.95rem;
+    font-size: 1rem;
   }
 main .mentions{
     padding: 1rem;
