@@ -1,0 +1,15 @@
+.mentions{
+    background-color: #FFD6D6;
+    padding: 5rem 10rem;
+}
+ul{
+    list-style-type: none;
+    padding-left: 2rem;
+}
+.mentions p{
+    padding-left: 1.5rem;
+    padding-bottom: 1rem;
+}
+.mentions h3{
+    padding: 1rem;
+}

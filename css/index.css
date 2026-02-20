@@ -1,0 +1,35 @@
+h2{
+    background-color: #FFD6D6;
+    text-align: right;
+    padding: 3.5rem;
+}
+.accueil, .crepeSucre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8rem;
+    padding: 2rem 5rem 6rem 5rem;
+    background-color: #FFD6D6;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 1.8rem;
+    /* width: 50%; */
+}
+
+.accueil p{
+    padding-bottom: 1rem;
+    font-size: 1rem;
+    text-align: center;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-family: cursive;
+    font-weight: normal;
+    
+}
+
+
+
+
+
