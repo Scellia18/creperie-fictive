@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://scellia18.github.io/creperie-fictive/sitemap.xml
