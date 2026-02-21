@@ -17,3 +17,21 @@ ul{
     padding: 1rem;
     font-size: 1.4rem;
 }
+.mentions a{
+    text-underline-offset: 5px;
+    text-decoration: #642602 underline 1.2px solid;
+    color: #642602;
+
+}
+
+strong{
+    font-weight: 400; 
+    color: rgba(170, 19, 49, 0.884);
+    text-decoration: rgba(170, 19, 49, 0.884) underline 1.2px solid;
+    text-underline-offset: 5px;
+
+}
+.mentions ul{
+    font-size: 1.4rem;
+    font-weight: normal;
+}
